@@ -1,0 +1,116 @@
+body{
+    background: hsl(0, 0%, 8%) ;
+}
+.frame{
+    height: 500px;
+    background:transparent;
+    text-align: center;
+}
+.main{
+    height: 600px;
+    width: 600px;
+    background:hsl(0, 0%, 12%) ;
+    border-radius: 20px;
+    padding: 2px 2px 2px 2px ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top:-200px;
+    margin-left: -300px;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    transform:translate3d(25deg);
+    padding-top:10px ;
+}
+.text-1 h1 {
+    font-size: 25px;
+    font-weight: 600;
+}
+.text-2 p{
+    font-size: 16px;
+    font-weight: 500;
+    color: hsl(75, 94%, 57%);
+}
+.profession{
+    font-size: larger;
+    color: hsl(0, 0%, 100%) ;
+}
+.links{text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+.links a{
+text-decoration: none;
+color:  hsl(0, 0%, 100%);
+font-size: 25px;
+font-weight: 500;
+
+}
+.link-1{
+    height: 40px;
+    width:400px;
+    border: 2px solid hsl(0, 0%, 20%);
+    margin-left: 100px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    background:hsl(0, 0%, 20%) ;
+}
+
+.link-2{
+    height: 40px;
+    width:400px;
+    border: 2px solid hsl(0, 0%, 20%);
+    margin-left: 100px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    background:hsl(0, 0%, 20%) ;
+}
+.link-3{
+    height: 40px;
+    width:400px;
+    border: 2px solid hsl(0, 0%, 20%);
+    margin-left: 100px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    background:hsl(0, 0%, 20%) ;
+}
+.link-4{
+    height: 40px;
+    width:400px;
+    border: 2px solid hsl(0, 0%, 20%);
+    margin-left: 100px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    background:hsl(0, 0%, 20%) ;
+}
+.link-5{
+    height: 40px;
+    width:400px;
+    border: 2px solid hsl(0, 0%, 20%);
+    margin-left: 100px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background:hsl(0, 0%, 20%) ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
